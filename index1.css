@@ -80,7 +80,7 @@ table.magazine {
 }
 
 #episode{
-	display: block;
+	display: inline-block;
 	margin-left: 10px auto;
 	margin-right: 10px auto;
 	margin-top: 10px auto;
