@@ -81,10 +81,10 @@ table.magazine {
 
 #episode{
 	display: inline-block;
-	margin-left: 10px auto;
-	margin-right: 10px auto;
-	margin-top: 10px auto;
-	margin-bottom: 10px auto;
+	margin-left: 5em auto;
+	margin-right: 5em auto;
+	margin-top: 5em auto;
+	margin-bottom: 5em auto;
 	text-align: left;
 }
 .episode-link{
