@@ -80,10 +80,10 @@ table.magazine {
 }
 
 #episode{
-	padding-left: 10px auto;
-	padding-right: 10px auto;
-	padding-top: 10px auto;
-	padding-bottom: 10px auto;
+	margin-left: 10px auto;
+	margin-right: 10px auto;
+	margin-top: 10px auto;
+	margin-bottom: 10px auto;
 	text-align: left;
 }
 .episode-link{
