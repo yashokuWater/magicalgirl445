@@ -141,10 +141,7 @@ table.magazine {
 
 #youtube{
 	width:60%;
-	height:60%;
 	aspect-ratio: 16 / 9;
-	margin-right: 10 auto;
-	margin-left: 10 auto;
 }
 .youtube iframe{
 	width: 50%;
